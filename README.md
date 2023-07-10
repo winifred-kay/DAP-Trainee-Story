@@ -3,8 +3,8 @@
 ####  🛠️My Azubi Africa Journey 😍
 
  After graduating my first degree in computer science, I was introduced to a broad world of tech paths I could choose as a
- a career journey. I got confused😢 at a point o what career path to pursue. I gradually drifted to data analytics and how influential it was in business decision recently,
-but I did know how to start there journey. So when I came across Azubi Africa, a renowned institution offering data science courses, 
+ a career journey. I got confused😢 at a point on what career path to pursue. I gradually drifted towards data analytics and got fascinated with how influential it was in business decision for big organizations
+but I was blank on where to start this journey. So when I came across Azubi Africa, a renowned institution offering data science program, 
 I knew it was the perfect opportunity to enhance my skills and pursue my passion. Little did I know that this journey would prove to be transformative and enriching in ways 
 I never imagined.💯✔️☑️
 
