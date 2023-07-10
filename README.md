@@ -36,8 +36,9 @@ enabling us to enhance our collaboration and communication skills.
 Throughout the project phase, we received guidance and support from experienced mentors who provided valuable insights and helped us overcome obstacles. Their expertise and
 constant feedback were instrumental in shaping our project outcomes and refining our skills.
 
+Aside from skill development, we had the opportunity to meet with dedicated career coaches who taught us how to portray oneself in the job market. I learnt a lot about resume design, interview coaching, and taking aptitude and programming tests.
 
-In conclusion, my journey as a data science student with Azubi Africa has been an incredible experience.  
+In conclusion, my journey as a data analytics professional trainee with Azubi Africa has been an incredible experience.  
 I have gained proficiency in essential tools such as Excel, SQL, Power BI, and Python, enabling me to tackle complex data-related challenges.
 The project phase allowed me to apply my skills in a practical setting, solving real-world problems and collaborating with a team.
 It has provided me with invaluable hands-on experience and prepared me to enter the professional world of data science. 
