@@ -39,7 +39,8 @@ constant feedback were instrumental in shaping our project outcomes and refining
 Aside from skill development, we had the opportunity to meet with dedicated career coaches who taught us how to portray oneself in the job market. I learnt a lot about resume design, interview coaching, and taking aptitude and programming tests.
 
 In conclusion, my journey as a data analytics professional trainee with Azubi Africa has been an incredible experience.  
-I have gained proficiency in essential tools such as Excel, SQL, Power BI, and Python, enabling me to tackle complex data-related challenges.
+I have gained proficiency in essential tools such as Excel, SQL, Power BI, and Python, enabling me to tackle complex data-related challenges and building models such  as
+classification and prediction models, sentiment analysis models, etc.
 The project phase allowed me to apply my skills in a practical setting, solving real-world problems and collaborating with a team.
 It has provided me with invaluable hands-on experience and prepared me to enter the professional world of data science. 
 I am grateful to Azubi Africa ❤️💞 for providing me with this opportunity and look forward to embracing new challenges and furthering my growth as a data scientist ✨⭐🌟
